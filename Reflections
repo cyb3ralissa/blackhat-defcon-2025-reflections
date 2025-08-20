@@ -1,0 +1,46 @@
+# Reflections on Black Hat USA 2025 and DEFCON 2025
+
+---
+
+## Black Hat USA 2025
+
+Black Hat USA 2025 provided a dynamic platform for cybersecurity professionals to engage with cutting-edge research, tools, and networking opportunities. As a Sr. Specialist in Risk Management, I participated in several high-profile events that offered valuable insights into the evolving threat landscape and industry best practices.
+
+### Key Events Attended
+- SAFE Blackhat Dinner  
+- Qualys Dinner  
+- OPSWAT Meet Up  
+- Obsidian VIP Kickoff Event  
+- AI Trust Score™ Cocktails  
+
+### Keynote Highlights
+- Discussions on AI risk scoring and enterprise security  
+- Insights into vulnerability management and threat intelligence  
+
+I prioritized attending live demos to gain hands-on exposure to emerging cybersecurity technologies. At Safe Security, I explored their Cyber Risk Quantification (CRQ) platform, which calculates real-time risk scores using internal telemetry and threat intelligence. At Black Kite, I learned how their solution maps vendor risk using open-source intelligence and machine learning—tools highly relevant to enterprise risk management.
+
+Outside the vendor hall, I was able to network with a wide range of professionals by attending multiple informal gatherings and evening events. These interactions provided candid insights and expanded my professional network.
+
+---
+
+## DEFCON 2025
+
+DEFCON 2025 was a transformative experience, particularly with the debut of the Maritime Hacking Village. This unique village brought together hackers, engineers, and policymakers to test the resilience of maritime systems including autonomous vessels and port infrastructure.
+
+### Key Takeaways
+- Hands-on experience with ICS and OT systems in maritime environments  
+- Exploits and simulations involving narco subs and port cranes  
+- Emphasis on memory safety and legacy vulnerabilities in embedded maritime systems  
+- Collaborative discussions on regulatory frameworks such as the US Coast Guard cyber rules  
+
+I participated in a packet sniffing lab, analyzing network traffic to identify vulnerabilities and data leaks. At the Social Engineering Village, I observed live cold calls where participants posed as corporate security staff or university students to extract sensitive information—highlighting the importance of human-centric security awareness.
+
+One standout session walked us through the technical specifics of duplicating credentials, from Super Bowl tickets to corporate ID cards. Techniques included magnetic stripe cloning, RFID spoofing, and barcode manipulation—underscoring the need for layered physical security.
+
+---
+
+## Volunteer Work and Community Engagement
+
+I volunteered at the Red Team Village, assisting with lab setup and engaging with attendees on offensive security techniques. This role provided deeper insights into adversarial tactics and connected me with professionals across the industry.
+
+While volunteering,
