@@ -4,7 +4,7 @@
 This repository contains a multi-page Word document summarizing my professional reflections and key takeaways from attending **Black Hat USA 2025** and **DEFCON 2025**.
 
 ## Contents
-- `BlackHat_DEFCON_2025_Reflections.docx`: A detailed write-up covering:
+- `Reflections`: A detailed write-up covering:
   - Strategic networking events at Black Hat (SAFE Dinner, Obsidian VIP Kickoff, OPSWAT Meet Up, and more)
   - Technical insights from DEFCON’s Maritime Hacking Village
   - Relevance to corporate risk management
